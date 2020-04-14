@@ -1,1 +1,1 @@
-# Code-Jam-Case-Competition
+Code-Jam Case Competition
